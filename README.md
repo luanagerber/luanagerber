@@ -6,6 +6,6 @@
 🔸 Challenges keep me moving and growing!<br>
 🔹 Write me anytime at: luanagerber.dev@gmail.com
 
-## Apps developed
+# Apps developed
 <a href="https://github.com/luanagerber/CareBeep"><img src="https://github.com/user-attachments/assets/a300d7e8-dca2-4582-b718-fabd32c6b027" width="70"></a>
 <a href="https://github.com/luanagerber/Pace-of-Mind"><img src="https://github.com/user-attachments/assets/13e4243d-e577-46ee-a853-7937d8e96e9b" width="70"></a>
